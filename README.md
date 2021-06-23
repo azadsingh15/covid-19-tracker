@@ -7,7 +7,7 @@
 
 
 
-### API used to get the result
+### API used to get the data
 
 
 1. `https://corona.lmao.ninja/v2/countries`
