@@ -7,10 +7,14 @@
 
 
 
+### API used to get the result
 
+```
+https://corona.lmao.ninja/v2/countries
+https://corona.lmao.ninja/v2/countries/:country
+https://corona.lmao.ninja/v2/historical
 
-
-
+```
 
 
 
