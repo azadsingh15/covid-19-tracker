@@ -1,6 +1,6 @@
 # Covid-19 Tracker
 
-
+This website tells the situation of covid-19 in different countries.
 
 
 
